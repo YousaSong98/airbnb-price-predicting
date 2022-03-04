@@ -1,1 +1,3 @@
-# airbnb-price-predicting
+The dataset we are going to use for the final project is the New York City Airbnb data in the year 2021. Since Airbnb was founded in 2008, accommodating with Airbnb has become popular for all kinds of travel purposes, especially in NYC where hotel rates are expensive and room sizes vary a lot. We retrieved data from the website, Inside Airbnb, which contains detailed historical data of listings and reviews of airbnb hosts around the world. In this project, we used the detailed listing data, detailed review data, and neighborhood geojson data of New York City.
+
+In this paper, we would like to figure out the pricing methodologies of the Airbnb hosts so that we could provide pricing suggestions for future hosts. First, we will explore the data in order to find insights into features influencing the listing price. Then, we will perform several machine learning models to predict the listing price based on our analysis.
